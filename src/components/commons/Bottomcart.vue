@@ -3,7 +3,7 @@
 	<div class="hanlde">
 		<i class="fa fa-check-square-o cur"></i>
 		商品总价：￥148.00
-		<span class="fr">去结算大修改1</span>
+		<span class="fr">去结算大修改10</span>
 	</div>
 	
 </template>
