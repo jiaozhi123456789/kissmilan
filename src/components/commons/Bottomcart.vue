@@ -29,7 +29,7 @@
   position: fixed;
     bottom: 0;
     left: 0;
-    right:10px;
+    right:60px;
 
    
     background: #e5e6e8;
