@@ -22,20 +22,9 @@
  @import '../../styles/main.less';	
  
 .hanlde {
-	.fs(12);
- 	.w(375);
- 	.h(53);
- 	.lh(53);
   position: fixed;
-    bottom: 0;
-    left: 0;
     right:50px;
-
-   
-    background: #e5e6e8;
-    text-indent: 7px;
-    color: #9a5b57;
-    z-index: 1;
+  background: red;
 }
 
 .hanlde>.fa.cur  {
