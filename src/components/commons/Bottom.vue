@@ -5,7 +5,7 @@
 				 <router-link  tag='li'   to="/">
 				 	
 				 	  <i class="fa fa-home" aria-hidden="true"></i>
-                            <span>首页13</span>
+                            <span>首页14</span>
 				</router-link>
 		
 			
@@ -13,14 +13,14 @@
 				 <router-link  tag='li'  to="/goods/0">
 				<i class="fa fa-th-large" aria-hidden="true"></i>
 
-					<span>蛋糕名录13</span>
+					<span>蛋糕名录14</span>
 					</router-link>
 			
 		
 				 <router-link tag='li'   to="/user/order">
                        <i class="fa fa-file-text" aria-hidden="true"></i>
 
-				<span>我的订单13</span>
+				<span>我的订单14</span>
 				</router-link>
 		
 		
