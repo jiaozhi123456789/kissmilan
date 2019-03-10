@@ -29,8 +29,8 @@
   position: fixed;
     bottom: 0;
     left: 0;
-    right: 0;
-   
+    right:10px;
+
    
     background: #e5e6e8;
     text-indent: 7px;
