@@ -5,7 +5,7 @@
 				 <router-link  tag='li'   to="/">
 				 	
 				 	  <i class="fa fa-home" aria-hidden="true"></i>
-                            <span>首页14</span>
+                            <span>首页14(jiaozhi13.16)</span>
 				</router-link>
 		
 			
