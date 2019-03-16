@@ -13,9 +13,12 @@
 				 <router-link  tag='li'  to="/goods/0">
 				<i class="fa fa-th-large" aria-hidden="true"></i>
 
-					<span>蛋糕名录rwu4</span>
-           <span>蛋糕名录rwu4</span>
-           <span>蛋糕名录rwu4</span>
+					<span>蛋糕名录rwu5</span>
+           <span>蛋糕名录rwu5</span>
+           <span>蛋糕名录rwu5</span>
+           <span>蛋糕名录rwu5（远程增加一行代码）</span>
+           <span>蛋糕名录rwu5</span>
+           <span>蛋糕名录rwu5</span>
 					</router-link>
 			
 		
@@ -31,7 +34,7 @@
  <router-link tag='li'  to="/user">
  	<i class="fa fa-user" aria-hidden="true"></i>
 
-			<span>会员中心13</span>
+
 			</router-link>
 			
 		</ul>
