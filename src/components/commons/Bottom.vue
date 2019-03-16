@@ -12,7 +12,7 @@
 	
 				 <router-link  tag='li'  to="/goods/0">
 				<i class="fa fa-th-large" aria-hidden="true"></i>
-           <span>蛋糕名录rwu6（jiaozhi1增加一行代码）</span>
+           <span>蛋糕名录rwu7（jiaozhi1增加两行代码）</span>
            <span>蛋糕名录rwu6</span>
 					<span>蛋糕名录rwu6（远程增加一行代码）</span>
            <span>蛋糕名录rwu6</span>
