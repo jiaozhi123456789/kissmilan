@@ -6,7 +6,6 @@
 				 	
 				 	  <i class="fa fa-home" aria-hidden="true"></i>
                             <span>首页14(jiaozhi13.16)</span>
-           <span>我的订单14（本地增加一行代码）</span>
 				</router-link>
 		
 			
@@ -14,10 +13,15 @@
 				 <router-link  tag='li'  to="/goods/0">
 				<i class="fa fa-th-large" aria-hidden="true"></i>
 
-					<span>蛋糕名录rwu6</span>
-           <span>蛋糕名录rwu6</span>
-           <span>蛋糕名录rwu6</span>
+					<span>蛋糕名录rwu5</span>
+           <span>蛋糕名录rwu5</span>
+           <span>蛋糕名录rwu5</span>
+           <span>蛋糕名录rwu5（远程增加一行代码）</span>
+           <span>蛋糕名录rwu5</span>
+           <span>蛋糕名录rwu5</span>
 					</router-link>
+			
+		
 				 <router-link tag='li'   to="/user/order">
                        <i class="fa fa-file-text" aria-hidden="true"></i>
 
@@ -30,7 +34,7 @@
  <router-link tag='li'  to="/user">
  	<i class="fa fa-user" aria-hidden="true"></i>
 
-			<span>会员中心13</span>
+
 			</router-link>
 			
 		</ul>
