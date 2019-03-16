@@ -13,7 +13,7 @@
 				 <router-link  tag='li'  to="/goods/0">
 				<i class="fa fa-th-large" aria-hidden="true"></i>
 
-					<span>蛋糕名录14jiaozhi2</span>
+					<span>蛋糕名录rwu2</span>
 					</router-link>
 			
 		
