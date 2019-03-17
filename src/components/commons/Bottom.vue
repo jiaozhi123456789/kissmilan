@@ -13,7 +13,7 @@
 				 <router-link  tag='li'  to="/goods/0">
 				<i class="fa fa-th-large" aria-hidden="true"></i>
 
-           <span>bug1</span>
+           <span>bug1555555555555555555555555555555555555555555555</span>
            <span>蛋糕名录rwu6</span>
            <span>蛋糕名录rwu6（远程增加一行代码）</span>
            <span>蛋糕名录rwu5</span>
